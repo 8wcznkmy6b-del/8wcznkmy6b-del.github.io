@@ -1,9 +1,42 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 👋 关于我 (About Me)
 
-::github{repo="saicaca/fuwari"}
+你好！我是 **Dochi**。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+一名 **AI 原生创造者（Vibe Coder）与独立开发者** 🤖✨
+
+我并没有深厚且枯燥的传统编程背景，而是通过 **AI + 直觉驱动（Vibe Coding）**，将一个个脑海中的灵感与好想法，一步步具象化为真正可用的软件产品。
+
+我相信在 AI 时代：**好的审美、敏锐的用户痛点感知，以及把想法变成现实的行动力，才是最强大的超能力。**
+
+---
+
+## 🛠️ 正在借助 AI 构建的项目 (Projects)
+
+### 📸 AuraSnap · macOS 截图与视觉工具
+> *AI 辅助打造的现代 macOS 轻量截图利器。*
+
+- **灵感来源**：日常截图中遇到的一系列繁琐痛点，决定借助 AI 为自己打造一款极致趁手的屏幕捕获工具。
+- **产品特色**：原生极速、高颜值标注、顺滑的交互动效。
+- **状态**：持续与 AI 协同迭代打磨中 🚀
+
+---
+
+### 🌊 SonicTopography
+- **探索方向**：音频可视化与三维地形渲染，探索声学与图形交汇的视觉实验项目。
+
+---
+
+## 💡 我在做的事与分享内容
+
+- **Vibe Coding 实战**：记录一个零传统编程背景的普通人，如何依靠 AI 打造出原生 macOS 应用。
+- **独立产品探索**：设计、产品交互、独立变现与好玩的新想法。
+- **日常与随笔**：技术折腾、生活记录、好物与灵感分享。
+
+---
+
+## 📬 找到我 (Connect)
+
+- **GitHub**：[@8wcznkmy6b-del](https://github.com/8wcznkmy6b-del)
+- **Email**：[pengyj0811@gmail.com](mailto:pengyj0811@gmail.com)
+
+如果你也对 AI 编程、Vibe Coding、独立开发感兴趣，欢迎随时发邮件或在 GitHub 上与我交流！☕️
