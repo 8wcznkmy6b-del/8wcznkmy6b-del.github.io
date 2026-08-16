@@ -62,6 +62,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/8wcznkmy6b-del",
 		},
+		{
+			name: "Email",
+			icon: "material-symbols:mail",
+			url: "mailto:pengyj0811@gmail.com",
+		},
 	],
 };
 
